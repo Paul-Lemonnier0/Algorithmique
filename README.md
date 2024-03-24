@@ -1,4 +1,4 @@
-# Travaux Pratiques d'Algorithmique en C++
+# TP d'Algorithmique en C++
 
 Ce répertoire regroupe une série de travaux pratiques portant sur l'implémentation de structures de données complexes en utilisant le langage C++.
 
